@@ -5,8 +5,8 @@ function AboutPage(props) {
   return (
     <Card>
       <div className='about'>
-        <h1>Sobre o Projetot</h1>
-        <p>Essa é uma Web Aplicação feita com react que permite ao usuario deixar seu feedback sobre um produto ou servço</p>
+        <h1>Sobre o Projeto</h1>
+        <p>Essa é uma Web Aplicação feita com react que permite ao usuario deixar seu feedback sobre um produto ou servço.</p>
         <p>Versão: 1.0.0</p>
 
         <p>
