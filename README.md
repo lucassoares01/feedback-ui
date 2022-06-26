@@ -12,7 +12,7 @@
 O layout da aplicação:
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img src="./github/devmoney.gif">
+  <img src="./github/feedbackui.gif">
 </p>
 
 ---
