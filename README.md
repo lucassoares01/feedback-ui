@@ -52,6 +52,11 @@ As seguintes ferramentas foram usadas na construção do projeto:
 # Clone este repositório
 $ git clone https://github.com/lucassoares01/dev-money
 
+#Para iniciar na sua maquina, de os comandos: 
+
+- npm start para a aplicção
+- npm run server para o JSON Database.
+
 ```
 
 ---
