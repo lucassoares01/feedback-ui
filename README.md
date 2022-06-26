@@ -11,9 +11,13 @@
 
 O layout da aplicação:
 
-<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+<div align="center">
+  <h1>💻Desktop Version</h1>
   <img src="./github/feedbackuigif.gif">
-</p>
+  
+  <h1>📱Mobile Version</h1>
+  <img src="./github/mobilefeedbackui.gif" width='350px'/>     
+</div>
 
 ---
 
