@@ -49,7 +49,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## 🚀 Como executar o projeto
 
--   Você pode testar o projeto aqui: **[Feedback UI](feedback-uiweb.vercel.app)**
+-   Você pode testar o projeto aqui: **[Feedback UI](https://feedback-uiweb.vercel.app)**
 
 ```bash
 
