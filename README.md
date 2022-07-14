@@ -13,10 +13,7 @@ O layout da aplicação:
 
 <div align="center">
   <h1>💻Desktop Version</h1>
-  <img src="./github/feedbackuigif.gif">
-  
-  <h1>📱Mobile Version</h1>
-  <img src="./github/mobilefeedbackui.gif" width='350px'/>     
+  <img src="./github/feedbackuigif.gif"> 
 </div>
 
 ---
